@@ -3,6 +3,10 @@ async function newFormHandler(event) {
   
     const title = document.querySelector('input[name="post-title"]').value;
     const content = document.querySelector('input[name="content"]').value;
+
+    if (!title || !content) {
+      alert('Please fill in both title and content fields');
+    }
   
     const response = await fetch(`/api/posts`, {
       method: 'POST',
