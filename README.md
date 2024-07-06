@@ -32,6 +32,6 @@ https://github.com/kitasauce
 ## Video Walkthrough
 
 ## Screenshot 
-![](Tech_Blog/public/images/screenshot.png)
+![tech-blog screenshot](./images/screenshot.png)
 
 ## Live
