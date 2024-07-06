@@ -32,6 +32,6 @@ https://github.com/kitasauce
 ## Video Walkthrough
 
 ## Screenshot 
-![](/public/images/Screenshot 2024-07-04 at 11.33.32 PM.png)
+![](/Users/andrew/Desktop/code/Tech_Blog/public/images/Screenshot 2024-07-04 at 11.33.32 PM.png)
 
 ## Live
