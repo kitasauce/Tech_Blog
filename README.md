@@ -30,8 +30,10 @@ For any questions please contact me here:
 https://github.com/kitasauce
 
 ## Video Walkthrough
+https://www.youtube.com/watch?v=ke_SBtOsRAY
 
 ## Screenshot 
 ![tech-blog screenshot](./images/screenshot.png)
 
 ## Live
+https://tech-blog-o01t.onrender.com/ 
